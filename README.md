@@ -20,28 +20,12 @@
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
 
 </div>
 
 
 
-#### Dynamic Realtime 💫
-- [Kirill Feschenko](https://github.com/xcaq/xcaq)
-- [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
-- [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
-- [Hemant Joshi](https://github.com/8bithemant/8bithemant)
-- [Kittinan](https://github.com/kittinan/kittinan)
-- [Andrew Novac](https://github.com/novatorem/novatorem)
-- [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
-- [Andrew Young](https://github.com/andyruwruw/andyruwruw)
-- [Rashmi Jadhav](https://github.com/rusty-sj/rusty-sj)
-- [andyruwruw](https://github.com/andyruwruw/andyruwruw)
-- [Jacob Colvin](https://github.com/MacroPower/MacroPower)
-- [Osman Durdağ](https://github.com/zumrudu-anka/zumrudu-anka)
-- [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
-- [Dani Akash](https://github.com/daniakash/daniakash)
-- [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
+
 
 
 
@@ -51,10 +35,5 @@ Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
 ## Special Thanks 🙇
-- [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
+- [Network#9999](https://github.com/zzetao) BEST CODER EVER
 
-## License 
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
